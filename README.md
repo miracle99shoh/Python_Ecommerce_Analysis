@@ -105,15 +105,6 @@ len(df[df.year=='2018']['itemid'].unique())
 ```{py}
 df[df['is_preferred']=='1'].groupby(['shopid'])['itemid'].count().sort_values(ascending=False)[0:3]
 ```
-shopid
-
-43384791    2034
-
-6072241       1998
-
-26974701    1037
-
-Name: itemid, dtype: int64
 
 ## 6. Show Top 3 Categories that have the largest number of unique cross-border products
 - Filter to cross-border products, 'cb_option'== 1
