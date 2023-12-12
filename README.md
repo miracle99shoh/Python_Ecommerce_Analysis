@@ -1,6 +1,10 @@
 # Python_Ecommerce_Analysis
 This repository depicts the detailed analysis of E-commerce Platform using given excel data
 
+<br/><a href="https://github.com/miracle99shoh/Python_Ecommerce_Analysis/blob/main/Data%20Analysis%20with%20Python%20Course%20Project.ipynb">Here is the link</a>  to the markdown file in GitHub.
+
+And <br/><a href="https://www.kaggle.com/code/shokirjonotamirzaev/e-commerce-data-analysis-on-python">this is the link</a> to the Kaggle notebook.
+
 # Data Analysis with Python Course Project
 ***
 
